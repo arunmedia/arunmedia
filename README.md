@@ -18,5 +18,7 @@ I'm building Autorender with three friends I've known for 20 years. Best decisio
 ## Find me elsewhere 🌎
 
 🚀 [Personal site](https://thearunraj.com/)
+
 🐦 [Twitter](https://x.com/arundesigns)
+
 💼 [LinkedIn](https://www.linkedin.com/in/arunrajb/)
