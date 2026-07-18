@@ -1,7 +1,8 @@
-# Hey, I'm Arun! 👋
+# Hey, I'm ArunRaj! 👋
 
 🤓 Co-founder & CEO at [Autorender](https://autorender.io)
 🎨 Designer turned founder
+🇮🇳 Born in India
 🇮🇳 Living in Chennai, India (yes, the filter coffee is as good as they say)
 
 ## What I'm working on 👨‍💻
