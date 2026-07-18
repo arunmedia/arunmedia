@@ -20,6 +20,8 @@ I'm building Autorender with three friends I've known for 19 years. Best decisio
 
 ## Find me elsewhere 🌎
 
-🚀 [Site](https://thearunraj.com)
+🚀 [thearunraj.com](https://thearunraj.com/)
 
-🐦 [X](https://x.com/arundesigns)
+🐦 [@arundesigns](https://x.com/arundesigns)
+
+💼 [in/arunrajb](https://www.linkedin.com/in/arunrajb/)
