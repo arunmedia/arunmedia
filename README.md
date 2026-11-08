@@ -1,6 +1,6 @@
 # Hey, I'm ArunRaj! 👋
 
-🚀 Building [First.new](https://first.new/)\
+🚀 Co-founder & CEO at [First.new](https://first.new/)\
 🎨 Designer turned founder\
 🇮🇳 Born in India\
 📍 Living in Chennai, India (yes, the filter coffee is as good as they say)
@@ -14,3 +14,4 @@
 
 🐦 [Twitter](https://x.com/arundesigns)\
 💼 [LinkedIn](https://www.linkedin.com/in/arunrajb/)
+
