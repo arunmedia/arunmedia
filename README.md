@@ -1,21 +1,12 @@
 # Hey, I'm ArunRaj! 👋
 
-🚀 Co-founder & CEO at [Autorender](https://autorender.io)  
-🎨 Designer turned founder  
-🇮🇳 Born in India  
-📍 Living in Chennai, India (yes, the filter coffee is as good as they say)
+I'm a designer turned founder based in Chennai, India. I'm building [First.new](https://first.new/), where you can turn an idea into a working app by describing it.
 
-## What I'm working on 👨‍💻
+## Other projects
 
-🖼️ Building [Autorender](https://autorender.io) — New Image API for Developers  
-📦 Helping behind the scenes for [react-mediadrop](https://mediadrop.dev) — an open-source, hooks-first, headless file uploader for React
+- [Autorender](https://autorender.io) — an image API for developers that I co-founded with three friends I've known for 20 years.
+- [react-mediadrop](https://mediadrop.dev) — an open-source, headless file uploader for React that I help with behind the scenes.
 
-## Fun fact 🤝
+## Find me elsewhere
 
-I'm building Autorender with three friends I've known for 20 years. Best decision ever.
-
-## Find me elsewhere 🌎
-
-🚀 [Personal site](https://thearunraj.com/)  
-🐦 [Twitter](https://x.com/arundesigns)  
-💼 [LinkedIn](https://www.linkedin.com/in/arunrajb/)
+[LinkedIn](https://www.linkedin.com/in/arunrajb/) · [X](https://x.com/arundesigns)
